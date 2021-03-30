@@ -2,7 +2,7 @@
 <h3 align="center">A hobby game developer, fooling around in pixel art and retro feel games in PICO-8 and Godot</h3>
 
 <p align="center">
-<a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNjY1MzM3LzM1OTMyMzYuZ2lm/original/B0O1ND.gif" alt="scrap_gif"/></a>
+<a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNjY1MzM3LzM1OTMyMzQuZ2lm/original/RPTI6v.gif" alt="mage_gif"/></a>
 <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNTY1NzQwLzI5NzE5MDEuZ2lm/347x500/sG5x6o.gif" alt="switch_jump_gif"/></a>
 <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNTc1NTIwLzMwMjg1OTQuZ2lm/347x500/KCqz%2B%2B.gif" alt="shell_tactic_gif"/></a>
 </p>
