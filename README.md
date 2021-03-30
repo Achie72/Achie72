@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Bela Toth, Achie</h1>
-<h3 align="center">A hobby game developer, dabbling in pixel art and rogue-like games in PICO-8 and Godot</h3>
+<h3 align="center">A hobby game developer, fooling around in pixel art and rogue-like games in PICO-8 and Godot</h3>
 
 <p align="center">
 <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNjY1MzM3LzM1OTMyMzYuZ2lm/original/B0O1ND.gif" alt="scrap_gif"/></a>
