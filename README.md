@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvMTY4NzQ4My85OTM5MTU5LmdpZg==/original/e%2FULGV.gif" alt="switch_jump_gif" width=240 height=240/></a> <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNTY1NzQwLzI5NzE5MDEuZ2lm/347x500/sG5x6o.gif" width=240 height=240/></a> <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvNjY1MzM3LzM1OTMyMzQuZ2lm/original/RPTI6v.gif" alt="mage_gif" width=240 height=240/></a>
+<a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvMTY4NzQ4My85OTM5MTU5LmdpZg==/original/e%2FULGV.gif" alt="switch_jump_gif" width=240 height=240/></a> <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvMTc4MDc2MS8xMDQ3NTI4My5naWY=/original/qhHPrv.gif" width=240 height=240/></a> <a target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvMjEzNTkzMy8xMjYwMDU1MS5naWY=/original/jABExg.gif" alt="mage_gif" width=240 height=240/></a>
 </p>
 
 
